@@ -57,6 +57,8 @@ Neural Networks: https://www.sciencedirect.com/journal/neural-networks
 
 Information Fusion: https://www.sciencedirect.com/journal/information-fusion
 
+KBS: https://www.sciencedirect.com/journal/knowledge-based-systems
+
 
 ## Tools
 
