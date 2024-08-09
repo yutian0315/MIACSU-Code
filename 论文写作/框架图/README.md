@@ -3,4 +3,4 @@
 ## 刘坤
 
 
-！[overchart of liukun's paper](GMVFN.png)
+![overchart of liukun's paper](GMVFN.png)
