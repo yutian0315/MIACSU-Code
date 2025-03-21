@@ -5,14 +5,31 @@
 ![overchart of liukun's paper](GMVFN.png)
 
 
-## 毛浚彬
+## 毛浚彬--TCBB
 
 ![overchart of maojunbin's paper](MMKGL.png)
+
+
+## 毛浚彬--TMI
+
+![overchart of tianxu's paper](FSG.png)
+
+### Citation
+```
+@article{mao2024towards,
+  title={Towards Integrating Federated Learning with Split Learning via Spatio-temporal Graph Framework for Brain Disease Prediction},
+  author={Mao, Junbin and Liu, Jin and Tian, Xu and Pan, Yi and Trucco, Emanuele and Lin, Hanhe},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
+}
+```
+
 
 ## 田旭
 
 ![overchart of tianxu's paper](MMTL.png)
-# Citation
+### Citation
 ```
 @article{liu2024multi,
   title={Multi-Task Learning for Alzheimer's Disease Diagnosis and Mini-Mental State Examination Score Prediction},
@@ -31,7 +48,7 @@
 
 ![overchart of tianxu's paper](GBF.png)
 
-# Citation
+### Citation
 ```
 @article{guo2023graph,
   title={Graph-based fusion of imaging, genetic and clinical data for degenerative disease diagnosis},
