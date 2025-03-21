@@ -27,7 +27,7 @@
 ```
 
 
-## 田旭
+## 田旭--TCBB
 
 ![overchart of tianxu's paper](GBF.png)
 
@@ -39,5 +39,22 @@
   journal={IEEE/ACM Transactions on Computational Biology and Bioinformatics},
   year={2023},
   publisher={IEEE}
+}
+```
+
+## 田旭--NN
+
+![overchart of tianxu's paper](GMFF.png)
+
+# Citation
+```
+@article{peng2025fusion,
+  title={Fusion of brain imaging genetic data for alzheimer’s disease diagnosis and causal factors identification using multi-stream attention mechanisms and graph convolutional networks},
+  author={Peng, Wei and Ma, Yanhan and Li, Chunshan and Dai, Wei and Fu, Xiaodong and Liu, Li and Liu, Lijun and Liu, Jin},
+  journal={Neural Networks},
+  volume={184},
+  pages={107020},
+  year={2025},
+  publisher={Elsevier}
 }
 ```
